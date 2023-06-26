@@ -1,2 +1,1 @@
-My first readme
-README updated from github.com
+I love mancity
